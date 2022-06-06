@@ -83,7 +83,7 @@ async function gettin(c){
             if(random == 0 || random == 7 || random ==9 || random < 1){}
 
              else  send(random);
-        }, day);
+        }, 30000);
         
 });
 
