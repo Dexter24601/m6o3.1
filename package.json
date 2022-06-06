@@ -2,9 +2,9 @@
   "name": "web-scrapper",
   "version": "1.0.0",
   "description": "",
-  "main": "web-scrapper.js",
+  "main": "m6o3.js",
   "scripts": {
-    "script": "nodemon index.js"
+    "start": "node m6o3.js"
   },
   "author": "Dexter",
   "license": "ISC",
